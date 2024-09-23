@@ -1,2 +1,2 @@
 # Internship_tasks
-hello everyone, this is my another projects which was i have done in my Online Internship program at FutureIntern.
+hello everyone,Here is my landing page project using HTML5 ,CSS3 and google fonts.
